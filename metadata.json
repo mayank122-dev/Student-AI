@@ -1,0 +1,6 @@
+{
+  "name": "AI Synapse",
+  "description": "A gamified, futuristic AI-powered study companion with dynamic real-time brainwave visualizers, customizable room atmospheres, Pomodoro timers, Room db persisted quizzes, and flashcard rooms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
